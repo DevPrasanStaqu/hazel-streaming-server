@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "npx vercel dev",
     "test": "xo && jest",
-    "precommit": "lint-staged"
   },
   "license": "MIT",
   "repository": "vercel/hazel",
